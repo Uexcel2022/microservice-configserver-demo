@@ -2,7 +2,7 @@
 loan:
   message: Welcome to EazyBank Loan related local production APIs
   contactDetails:
-    name: Samson Michael - Developer
+    name: Samson Michael - Product Owner
     email: samson23@eazybank.com
   onCallSupport:
     - (529) 555-1204

@@ -5,7 +5,7 @@ build:
 card:
   message: Welcome to EazyBank Card related local production APIs
   contactDetails:
-    name: Jacob Maz - Developer
+    name: Jacob Maz - Product Owner
     email: maz@eazybank.com
   onCallSupport:
     - (666) 556-1236
